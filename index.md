@@ -1,8 +1,10 @@
-<!DOCTYPE html>
 <html>
   <head>
     <title>Swedishsailor</title>
-    <h1> Swedishsailor Unity Game Develope</h1>
+  </head>
+    <body>
+    <h1> Swedishsailor Unity Game Developer</h1>
+      <p> 22 years old, psychology and technology lover, PixelArt psycho D:</p>
     
     
 ###Contact:
