@@ -20,8 +20,10 @@
    <h2 align="center"> Salve Devito </h2>
         <img height="128" width="128" src="sorcerer.png" /><p> MMO RPG game - own world, own story. Choose your character's class, get your weapon and go ahead, explore, fish, solve puzzles, every single thing you see is a key to something... maybe also players are here for some reason...</p>
       </li>
+        <li onclick="openPage('DimensionEye.html')">
       <h2 align="center"> DimensionEye </h2>
-      <p> 2D "platformer" game, the main domain in this game is to find as many eyes as you can. You are blind Jack but any eye you've found can be used in certain ways</p>
+            <img height="128" width="128" src="logode.png" /> <p> 2D "platformer" game, the main domain in this game is to find as many eyes as you can. You are blind Jack but any eye you've found can be used in certain ways</p>
+        </li>
         <li onclick="openPage('pixelart.html')">
         <h2 align="center"> PixelArt </h2>
           <img height="128" width="128" src="DRZEWKO.png" /><p> Tako pixelarcik fju fju </p>
