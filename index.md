@@ -7,6 +7,7 @@
     </script>
   <head>
     <title> SwedishSailor </title>
+     <link href="style.css" rel="stylesheet" type="text/css">  
   </head>
     <body>
     <h1 align="center"> Swedishsailor Unity Game Developer</h1>
