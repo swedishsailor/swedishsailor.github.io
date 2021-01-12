@@ -28,6 +28,6 @@
         <h2 align="center"> PixelArt </h2>
           <img height="128" width="128" src="DRZEWKO.png" /><p> Tako pixelarcik fju fju </p>
         </li>
-        <h4 align="center">Contact:kzygowski7@gmail.com</h4>
+        <h4 align="center">Contact: kzygowski7@gmail.com</h4>
        <h5 align="center">@2021 swedishsailor - Kamil Żygowski</h5>
  
