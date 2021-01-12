@@ -6,6 +6,7 @@
     }
     </script>
   <head>
+    <title> SwedishSailor </title>
   </head>
     <body>
     <h1> Swedishsailor Unity Game Developer</h1>
