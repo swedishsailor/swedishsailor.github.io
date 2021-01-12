@@ -18,15 +18,15 @@
       <ul>
            <li onclick="openPage('SalveDevito.html')">
    <h2 align="center"> Salve Devito </h2>
-        <img height="128" width="128" src="sorcerer.png" /><p> MMO RPG game - own world, own story. Choose your character's class, get your weapon and go ahead, explore, fish, solve puzzles, every single thing you see is a key to something... maybe also players are here for some reason...</p>
+        <img height="128" width="128" src="img/sorcerer.png" /><p> MMO RPG game - own world, own story. Choose your character's class, get your weapon and go ahead, explore, fish, solve puzzles, every single thing you see is a key to something... maybe also players are here for some reason...</p>
       </li>
         <li onclick="openPage('DimensionEye.html')">
       <h2 align="center"> DimensionEye </h2>
-            <img height="128" width="128" src="logode.png" /> <p> 2D "platformer" game, the main domain in this game is to find as many eyes as you can. You are blind Jack but any eye you've found can be used in certain ways. But... there is one, little, risk... The more your eye skill is strong, the more your soul is infected, which in the worst case, you end up in Limbo world, where you have to fight against fallen souls of your opponents instead of their material bodys.</p>
+            <img height="128" width="128" src="img/logode.png" /> <p> 2D "platformer" game, the main domain in this game is to find as many eyes as you can. You are blind Jack but any eye you've found can be used in certain ways. But... there is one, little, risk... The more your eye skill is strong, the more your soul is infected, which in the worst case, you end up in Limbo world, where you have to fight against fallen souls of your opponents instead of their material bodys.</p>
         </li>
         <li onclick="openPage('pixelart.html')">
         <h2 align="center"> PixelArt </h2>
-          <img height="128" width="128" src="DRZEWKO.png" /><p> Tako pixelarcik fju fju </p>
+          <img height="128" width="128" src="img/DRZEWKO.png" /><p> Tako pixelarcik fju fju </p>
         </li>
         <h4 align="center">Contact: kzygowski7@gmail.com</h4>
        <h5 align="center">@2021 swedishsailor - Kamil Żygowski</h5>
