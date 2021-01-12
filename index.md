@@ -7,11 +7,11 @@
       <h3> 22 years old, psychology and technology lover, PixelArt psycho D:</h3>
       <h1> Some footage :3 </h1>
    <h2> Salve Devito </h2>
-      <p> <img src="sorcerer.png" allign="right"/> MMO RPG game - own world, own story. Choose your character's class, get your weapon and go ahead, explore, fish, solve puzzles, every single thing you see is a key to something... maybe also players are here for some reason...</p>
+      <p allign="right"> <img src="sorcerer.png" allign="right"/> MMO RPG game - own world, own story. Choose your character's class, get your weapon and go ahead, explore, fish, solve puzzles, every single thing you see is a key to something... maybe also players are here for some reason...</p>
       <h2> DimensionEye </h2>
       <p> 2D "platformer" game, the main domain in this game is to find as many eyes as you can. You are blind Jack but any eye you've found can be used in certain ways</p>
       <h2> PixelArt </h2><img 
   </body>
-Contact:
-kzygowski7@gmail.com
+Contact:kzygowski7@gmail.com
+       <h6>@2021 swedishsailor - Kamil Żygowski</h6>
      </html>
