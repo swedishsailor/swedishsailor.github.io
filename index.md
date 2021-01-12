@@ -24,7 +24,7 @@
       </li>
         <li onclick="openPage('DimensionEye.html')">
       <h2 align="center"> DimensionEye </h2>
-            <img height="128" width="128" src="img/logode.png" /> <p> 2D "platformer" game, the main domain in this game is to find as many eyes as you can. You are blind Jack but any eye you've found can be used in certain ways. But... there is one, little, risk... The stronger your eye skill is, the more your soul is infected, which in the worst case, you end up in Limbo world, where you have to fight against fallen souls of your opponents instead of their material bodys.</p>
+            <img height="128" width="128" src="img/logode.png" /> <p> 2D "platformer" game, the main domain in this game is to find as many eyes as you can. You are blind Jack but any eye you've found can be used in certain ways. But... there is one, little, risk... The stronger your eye skill is, the more your soul is infected, which in the worst case leads you to Limbo world, where you have to fight against fallen souls of your opponents instead of their material bodys.</p>
         </li>
         <li onclick="openPage('pixelart.html')">
         <h2 align="center"> PixelArt </h2>
