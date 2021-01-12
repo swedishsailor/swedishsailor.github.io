@@ -11,9 +11,9 @@
     <body>
     <h1> Swedishsailor Unity Game Developer</h1>
       <h3> 22 years old, psychology and technology lover, PixelArt psycho D:</h3>
-      <h1> Some footage :3 </h1>
+        <br/>
       <br/>
-      <br/>
+      <h1> Some footage! :3 </h1>
       <ul>
            <li onclick="openPage('SalveDevito.html')">
    <h2> Salve Devito </h2>
