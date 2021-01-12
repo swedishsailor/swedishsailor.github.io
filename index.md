@@ -13,7 +13,7 @@
       <h3> 22 years old, psychology and technology lover, PixelArt psycho D:</h3>
         <br/>
       <br/>
-      <h1> Some footage! :3 </h1>
+      <h1 align="center"> Some footage! :3 </h1>
       <ul>
            <li onclick="openPage('SalveDevito.html')">
    <h2 align="center"> Salve Devito </h2>
