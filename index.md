@@ -1,4 +1,4 @@
-<html lang="en-us">
+<html>
   <script>
    function openPage(url) {
       var win = window.open(url, '_blank');
@@ -6,7 +6,6 @@
     }
     </script>
   <head>
-    <title> SwedishSailor </title>
      <link href="style.css" rel="stylesheet" type="text/css">  
   </head>
     <body class="content">
