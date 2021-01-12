@@ -22,6 +22,6 @@
       <p> 2D "platformer" game, the main domain in this game is to find as many eyes as you can. You are blind Jack but any eye you've found can be used in certain ways</p>
       <h2> PixelArt </h2><img 
   </body>
-Contact:kzygowski7@gmail.com
+        <h4>Contact:kzygowski7@gmail.com</h4>
        <h5>@2021 swedishsailor - Kamil Żygowski</h5>
      </html>
