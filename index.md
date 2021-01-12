@@ -11,10 +11,10 @@
   </head>
     <body>
     <h1 align="center"> Swedishsailor Unity Game Developer</h1>
-      <h3> 22 years old, psychology and technology lover, PixelArt psycho D:</h3>
+      <h3 align="center"> 22 years old, psychology and technology lover, PixelArt psycho D:</h3>
         <br/>
       <br/>
-      <h1 align="center"> Some footage! :3 </h1>
+      <h1 align="center">Some footage! :3 </h1>
       <ul>
            <li onclick="openPage('SalveDevito.html')">
    <h2 align="center"> Salve Devito </h2>
