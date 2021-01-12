@@ -11,7 +11,7 @@
   </head>
     <body class="content">
       <header class="container">
-    <h1 align="center"> Swedishsailor Unity Game Developer</h1>
+    <h1> Swedishsailor Unity Game Developer</h1>
       </header>
       <h3 align="center"> 22 years old, psychology and technology lover, PixelArt psycho D:</h3>
         <br/>
