@@ -1,5 +1,11 @@
-<html>
-   <title>Swedishsailor</title>
+<!DOCTYPE html>
+<html lang="en-us">
+  <script>
+   function openPage(url) {
+      var win = window.open(url, '_blank');
+      win.focus();
+    }
+    </script>
   <head>
   </head>
     <body>
