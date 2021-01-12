@@ -9,7 +9,7 @@
      <link href="style.css" rel="stylesheet" type="text/css">  
   </head>
     <body class="content">
-      <header class="container">
+      <header>
     <h1> Swedishsailor Unity Game Developer</h1>
       </header>
       <h3 align="center"> 22 years old, psychology and technology lover, PixelArt psycho D:</h3>
