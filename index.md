@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en-us">
   <script>
    function openPage(url) {
@@ -12,6 +11,10 @@
     <h1> Swedishsailor Unity Game Developer</h1>
       <h3> 22 years old, psychology and technology lover, PixelArt psycho D:</h3>
       <h1> Some footage :3 </h1>
+      <br/>
+      <br/>
+           <li onclick="openPage('SalveDevito.md')">
+          <img height="128" width="128" src="sorcerer.png" />
    <h2> Salve Devito </h2>
       <p allign="right"> <img src="sorcerer.png" allign="right"/> MMO RPG game - own world, own story. Choose your character's class, get your weapon and go ahead, explore, fish, solve puzzles, every single thing you see is a key to something... maybe also players are here for some reason...</p>
       <h2> DimensionEye </h2>
@@ -19,5 +22,5 @@
       <h2> PixelArt </h2><img 
   </body>
 Contact:kzygowski7@gmail.com
-       <h6>@2021 swedishsailor - Kamil Żygowski</h6>
+       <h5>@2021 swedishsailor - Kamil Żygowski</h5>
      </html>
