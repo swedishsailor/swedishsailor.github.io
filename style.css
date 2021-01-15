@@ -4,6 +4,12 @@ body{
     color:rgb(0, 0, 0);
     height: 100%;
   }
+a.button {
+    height: 80px;
+    background-image: url("img/aboutmebutton.png");
+    text-indent:-9999px;
+    display: inline-block;}
+
 h1 {
     font-family: Georgia, Times, serif;
     font-size:200%;
