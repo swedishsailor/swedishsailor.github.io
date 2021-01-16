@@ -9,7 +9,7 @@ a.button {
     background-image: url("img/aboutmebutton.png");
     background-repeat: no-repeat;
     text-indent:-9999px;
-    display: inline-block;}
+    display: block;}
 a#click {
     width: 194px;
     background-position: 0px 0px;
@@ -21,7 +21,7 @@ a#click {
 a#click:hover {
     background-image: url("img/aboutmebutton2.png");
     background-repeat: no-repeat;
-    display: inline-block;
+    display: block;
     background-position: 5px 5px;}
 a#framing-options:hover {
     background-position: -175px -40px;}
