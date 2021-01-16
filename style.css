@@ -19,6 +19,9 @@ a#click {
         width: 175px;
         background-position: -175px 0px;}
 a#click:hover {
+    background-image: url("img/aboutmebutton2.png");
+    background-repeat: no-repeat;
+    display: inline-block;
     background-position: 5px 5px;}
 a#framing-options:hover {
     background-position: -175px -40px;}
