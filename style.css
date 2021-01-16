@@ -5,8 +5,9 @@ body{
     height: 100%;
   }
 a.button {
-    height: 85px;
+    height: 95px;
     background-image: url("img/aboutmebutton.png");
+    background-repeat: no-repeat;
     text-indent:-9999px;
     display: inline-block;}
 a#click {
