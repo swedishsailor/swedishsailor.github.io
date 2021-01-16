@@ -9,6 +9,8 @@ a.button {
     background-image: url("img/aboutmebutton.png");
     background-repeat: no-repeat;
     text-indent:-9999px;
+   margin-left: auto;
+    margin-right: auto;
     display: block;}
 a#click {
     width: 194px;
