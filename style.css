@@ -18,7 +18,7 @@ a#click {
         width: 175px;
         background-position: -175px 0px;}
 a#click:hover {
-    background-position: 0px -40px;}
+    background-position: 0px -10px;}
 a#framing-options:hover {
     background-position: -175px -40px;}
 a#click:active {
