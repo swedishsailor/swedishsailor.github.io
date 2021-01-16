@@ -5,7 +5,7 @@ body{
     height: 100%;
   }
 a.button {
-    height: 80px;
+    height: 85px;
     background-image: url("img/aboutmebutton.png");
     text-indent:-9999px;
     display: inline-block;}
