@@ -11,7 +11,7 @@ a.button {
     display: inline-block;}
 a#click {
     width: 174px;
-    background-position: -350px 0px;
+    background-position: 350px 0px;
 }
     a#framing-options {
         width: 175px;
