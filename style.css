@@ -47,7 +47,11 @@ h1 {
     max-width: 700px;
     margin: auto;
   }
-
+.ikona {
+  width: 64px;
+  height: 64px;
+  cursor: pointer;
+}
   button{
     background: rgb(228, 103, 103);
     border: none;
